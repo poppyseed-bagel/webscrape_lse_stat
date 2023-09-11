@@ -1,2 +1,3 @@
-# webscrape_lse_stat
+# Webscraping LSE Statistics Professors
+
 Demonstrating proficiency in webscraping, text data, and data wrangling using BeautifulSoup 
